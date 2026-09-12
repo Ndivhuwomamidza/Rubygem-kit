@@ -1,0 +1,51 @@
+{
+  "background_color": "#7b2929",
+  "description": "RubyGem Kit is a compact web app that lets you build, publish, verify, and manage Ruby gems from a single no‑code frontend — with CI triggering and subscription billing built in.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Rubygem kit",
+  "orientation": "any",
+  "scope": "https://com.justice.dreamspace",
+  "short_name": "Gems",
+  "start_url": "https://justice.dream.space",
+  "theme_color": "#2a8b49",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+CiAgPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjgiIGZpbGw9ImJsYWNrIi8+Cjwvc3ZnPg==",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.justice.dreamspace",
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "minimal-ui",
+    "window-controls-overlay",
+    "fullscreen",
+    "standalone"
+  ],
+  "prefer_related_applications": false,
+  "categories": [
+    "developer",
+    "developer tools",
+    "development",
+    "education"
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "Justice.dream.space",
+    "params": {
+      "title": "Application",
+      "text": "Automate gems",
+      "url": "https://justice.dream.space"
+    }
+  }
+}
